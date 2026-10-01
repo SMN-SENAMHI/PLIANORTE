@@ -13825,3 +13825,201 @@
 [2026-10-01 06:40:27] 247: histórico actualizado -> 240 filas
 [2026-10-01 06:40:27] Catálogo actualizado: 32 estaciones
 [2026-10-01 06:40:27] FIN DEL PROCESO - 22.6 segundos
+[2026-10-01 07:40:05] INICIO DEL PROCESO
+[2026-10-01 07:40:05] Abriendo página de login...
+[2026-10-01 07:40:06] Realizando login...
+[2026-10-01 07:40:07] LOGIN OK -> https://polaris.adrtecnology.com/gis/map
+[2026-10-01 07:40:07] Estaciones conservadas del catálogo histórico: 32
+[2026-10-01 07:40:07] Estaciones obtenidas desde viewer: 20
+[2026-10-01 07:40:09] Estaciones obtenidas directamente desde GIS: 32
+[2026-10-01 07:40:09] 200: estación con datos, pero sin las variables seleccionadas
+[2026-10-01 07:40:10] 215: 1/4 variables -> Ll acu 1 h
+[2026-10-01 07:40:10] 216: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 07:40:11] 217: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 07:40:11] 218: 2/4 variables -> Ll acu 1 h, Ta med 1h
+[2026-10-01 07:40:12] 220: 1/4 variables -> PP Acc (1h)
+[2026-10-01 07:40:12] 221: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 07:40:13] 223: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 07:40:13] 224: SIN DATOS EN EL ÚLTIMO DÍA
+[2026-10-01 07:40:14] 225: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 07:40:14] 226: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 07:40:15] 227: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 07:40:16] 228: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 07:40:16] 229: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 07:40:17] 230: SIN DATOS EN EL ÚLTIMO DÍA
+[2026-10-01 07:40:17] 231: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 07:40:18] 232: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 07:40:18] 233: SIN DATOS EN EL ÚLTIMO DÍA
+[2026-10-01 07:40:19] 234: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 07:40:19] 235: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 07:40:20] 236: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 07:40:20] 237: SIN DATOS EN EL ÚLTIMO DÍA
+[2026-10-01 07:40:21] 238: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 07:40:22] 239: SIN DATOS EN EL ÚLTIMO DÍA
+[2026-10-01 07:40:22] 240: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 07:40:23] 241: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 07:40:23] 242: SIN DATOS EN EL ÚLTIMO DÍA
+[2026-10-01 07:40:24] 243: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 07:40:25] 244: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 07:40:25] 245: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 07:40:26] 246: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 07:40:26] 247: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 07:40:27] 215: histórico actualizado -> 185 filas
+[2026-10-01 07:40:27] 216: histórico actualizado -> 131 filas
+[2026-10-01 07:40:27] 217: histórico actualizado -> 177 filas
+[2026-10-01 07:40:27] 218: histórico actualizado -> 187 filas
+[2026-10-01 07:40:27] 220: histórico actualizado -> 184 filas
+[2026-10-01 07:40:27] 221: histórico actualizado -> 370 filas
+[2026-10-01 07:40:27] 223: histórico actualizado -> 361 filas
+[2026-10-01 07:40:27] 225: histórico actualizado -> 358 filas
+[2026-10-01 07:40:27] 226: histórico actualizado -> 359 filas
+[2026-10-01 07:40:27] 227: histórico actualizado -> 364 filas
+[2026-10-01 07:40:27] 228: histórico actualizado -> 356 filas
+[2026-10-01 07:40:28] 229: histórico actualizado -> 362 filas
+[2026-10-01 07:40:28] 231: histórico actualizado -> 362 filas
+[2026-10-01 07:40:28] 232: histórico actualizado -> 341 filas
+[2026-10-01 07:40:28] 234: histórico actualizado -> 346 filas
+[2026-10-01 07:40:28] 235: histórico actualizado -> 307 filas
+[2026-10-01 07:40:28] 236: histórico actualizado -> 361 filas
+[2026-10-01 07:40:28] 238: histórico actualizado -> 364 filas
+[2026-10-01 07:40:28] 240: histórico actualizado -> 318 filas
+[2026-10-01 07:40:28] 241: histórico actualizado -> 190 filas
+[2026-10-01 07:40:28] 243: histórico actualizado -> 358 filas
+[2026-10-01 07:40:28] 244: histórico actualizado -> 231 filas
+[2026-10-01 07:40:28] 245: histórico actualizado -> 280 filas
+[2026-10-01 07:40:28] 246: histórico actualizado -> 158 filas
+[2026-10-01 07:40:28] 247: histórico actualizado -> 242 filas
+[2026-10-01 07:40:28] Catálogo actualizado: 32 estaciones
+[2026-10-01 07:40:28] FIN DEL PROCESO - 22.9 segundos
+[2026-10-01 08:40:05] INICIO DEL PROCESO
+[2026-10-01 08:40:05] Abriendo página de login...
+[2026-10-01 08:40:06] Realizando login...
+[2026-10-01 08:40:06] LOGIN OK -> https://polaris.adrtecnology.com/gis/map
+[2026-10-01 08:40:06] Estaciones conservadas del catálogo histórico: 32
+[2026-10-01 08:40:07] Estaciones obtenidas desde viewer: 20
+[2026-10-01 08:40:08] Estaciones obtenidas directamente desde GIS: 32
+[2026-10-01 08:40:09] 200: estación con datos, pero sin las variables seleccionadas
+[2026-10-01 08:40:09] 215: 1/4 variables -> Ll acu 1 h
+[2026-10-01 08:40:10] 216: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 08:40:10] 217: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 08:40:11] 218: 2/4 variables -> Ll acu 1 h, Ta med 1h
+[2026-10-01 08:40:11] 220: 1/4 variables -> PP Acc (1h)
+[2026-10-01 08:40:12] 221: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 08:40:13] 223: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 08:40:13] 224: SIN DATOS EN EL ÚLTIMO DÍA
+[2026-10-01 08:40:14] 225: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 08:40:14] 226: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 08:40:15] 227: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 08:40:15] 228: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 08:40:16] 229: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 08:40:17] 230: SIN DATOS EN EL ÚLTIMO DÍA
+[2026-10-01 08:40:17] 231: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 08:40:18] 232: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 08:40:18] 233: SIN DATOS EN EL ÚLTIMO DÍA
+[2026-10-01 08:40:19] 234: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 08:40:19] 235: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 08:40:20] 236: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 08:40:21] 237: SIN DATOS EN EL ÚLTIMO DÍA
+[2026-10-01 08:40:21] 238: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 08:40:22] 239: SIN DATOS EN EL ÚLTIMO DÍA
+[2026-10-01 08:40:22] 240: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 08:40:23] 241: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 08:40:24] 242: SIN DATOS EN EL ÚLTIMO DÍA
+[2026-10-01 08:40:24] 243: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 08:40:25] 244: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 08:40:25] 245: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 08:40:26] 246: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 08:40:26] 247: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 08:40:27] 215: histórico actualizado -> 186 filas
+[2026-10-01 08:40:27] 216: histórico actualizado -> 132 filas
+[2026-10-01 08:40:27] 217: histórico actualizado -> 178 filas
+[2026-10-01 08:40:27] 218: histórico actualizado -> 188 filas
+[2026-10-01 08:40:27] 220: histórico actualizado -> 185 filas
+[2026-10-01 08:40:27] 221: histórico actualizado -> 372 filas
+[2026-10-01 08:40:27] 223: histórico actualizado -> 363 filas
+[2026-10-01 08:40:27] 225: histórico actualizado -> 360 filas
+[2026-10-01 08:40:27] 226: histórico actualizado -> 361 filas
+[2026-10-01 08:40:27] 227: histórico actualizado -> 366 filas
+[2026-10-01 08:40:27] 228: histórico actualizado -> 358 filas
+[2026-10-01 08:40:27] 229: histórico actualizado -> 364 filas
+[2026-10-01 08:40:27] 231: histórico actualizado -> 364 filas
+[2026-10-01 08:40:27] 232: histórico actualizado -> 343 filas
+[2026-10-01 08:40:27] 234: histórico actualizado -> 348 filas
+[2026-10-01 08:40:28] 235: histórico actualizado -> 309 filas
+[2026-10-01 08:40:28] 236: histórico actualizado -> 363 filas
+[2026-10-01 08:40:28] 238: histórico actualizado -> 366 filas
+[2026-10-01 08:40:28] 240: histórico actualizado -> 320 filas
+[2026-10-01 08:40:28] 241: histórico actualizado -> 190 filas
+[2026-10-01 08:40:28] 243: histórico actualizado -> 360 filas
+[2026-10-01 08:40:28] 244: histórico actualizado -> 233 filas
+[2026-10-01 08:40:28] 245: histórico actualizado -> 282 filas
+[2026-10-01 08:40:28] 246: histórico actualizado -> 158 filas
+[2026-10-01 08:40:28] 247: histórico actualizado -> 244 filas
+[2026-10-01 08:40:28] Catálogo actualizado: 32 estaciones
+[2026-10-01 08:40:28] FIN DEL PROCESO - 22.8 segundos
+[2026-10-01 09:40:04] INICIO DEL PROCESO
+[2026-10-01 09:40:04] Abriendo página de login...
+[2026-10-01 09:40:04] Realizando login...
+[2026-10-01 09:40:05] LOGIN OK -> https://polaris.adrtecnology.com/gis/map
+[2026-10-01 09:40:05] Estaciones conservadas del catálogo histórico: 32
+[2026-10-01 09:40:05] Estaciones obtenidas desde viewer: 20
+[2026-10-01 09:40:07] Estaciones obtenidas directamente desde GIS: 32
+[2026-10-01 09:40:07] 200: SIN DATOS EN EL ÚLTIMO DÍA
+[2026-10-01 09:40:08] 215: 1/4 variables -> Ll acu 1 h
+[2026-10-01 09:40:08] 216: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 09:40:09] 217: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 09:40:09] 218: 2/4 variables -> Ll acu 1 h, Ta med 1h
+[2026-10-01 09:40:10] 220: 1/4 variables -> PP Acc (1h)
+[2026-10-01 09:40:10] 221: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 09:40:11] 223: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 09:40:11] 224: SIN DATOS EN EL ÚLTIMO DÍA
+[2026-10-01 09:40:12] 225: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 09:40:13] 226: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 09:40:13] 227: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 09:40:14] 228: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 09:40:14] 229: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 09:40:15] 230: SIN DATOS EN EL ÚLTIMO DÍA
+[2026-10-01 09:40:15] 231: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 09:40:16] 232: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 09:40:17] 233: SIN DATOS EN EL ÚLTIMO DÍA
+[2026-10-01 09:40:17] 234: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 09:40:18] 235: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 09:40:18] 236: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 09:40:19] 237: SIN DATOS EN EL ÚLTIMO DÍA
+[2026-10-01 09:40:19] 238: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 09:40:20] 239: SIN DATOS EN EL ÚLTIMO DÍA
+[2026-10-01 09:40:20] 240: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 09:40:21] 241: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 09:40:21] 242: SIN DATOS EN EL ÚLTIMO DÍA
+[2026-10-01 09:40:22] 243: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 09:40:23] 244: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 09:40:23] 245: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 09:40:24] 246: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 09:40:24] 247: 3/4 variables -> HRa med 1h, Ll acu 1 h, Ta med 1h
+[2026-10-01 09:40:25] 215: histórico actualizado -> 187 filas
+[2026-10-01 09:40:25] 216: histórico actualizado -> 133 filas
+[2026-10-01 09:40:25] 217: histórico actualizado -> 179 filas
+[2026-10-01 09:40:25] 218: histórico actualizado -> 189 filas
+[2026-10-01 09:40:25] 220: histórico actualizado -> 186 filas
+[2026-10-01 09:40:25] 221: histórico actualizado -> 374 filas
+[2026-10-01 09:40:25] 223: histórico actualizado -> 365 filas
+[2026-10-01 09:40:25] 225: histórico actualizado -> 362 filas
+[2026-10-01 09:40:25] 226: histórico actualizado -> 363 filas
+[2026-10-01 09:40:25] 227: histórico actualizado -> 368 filas
+[2026-10-01 09:40:25] 228: histórico actualizado -> 360 filas
+[2026-10-01 09:40:25] 229: histórico actualizado -> 366 filas
+[2026-10-01 09:40:26] 231: histórico actualizado -> 366 filas
+[2026-10-01 09:40:26] 232: histórico actualizado -> 345 filas
+[2026-10-01 09:40:26] 234: histórico actualizado -> 350 filas
+[2026-10-01 09:40:26] 235: histórico actualizado -> 311 filas
+[2026-10-01 09:40:26] 236: histórico actualizado -> 365 filas
+[2026-10-01 09:40:26] 238: histórico actualizado -> 368 filas
+[2026-10-01 09:40:26] 240: histórico actualizado -> 322 filas
+[2026-10-01 09:40:26] 241: histórico actualizado -> 190 filas
+[2026-10-01 09:40:26] 243: histórico actualizado -> 362 filas
+[2026-10-01 09:40:26] 244: histórico actualizado -> 235 filas
+[2026-10-01 09:40:27] 245: histórico actualizado -> 284 filas
+[2026-10-01 09:40:27] 246: histórico actualizado -> 158 filas
+[2026-10-01 09:40:27] 247: histórico actualizado -> 246 filas
+[2026-10-01 09:40:27] Catálogo actualizado: 32 estaciones
+[2026-10-01 09:40:27] FIN DEL PROCESO - 22.8 segundos
